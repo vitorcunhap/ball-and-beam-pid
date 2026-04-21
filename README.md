@@ -85,20 +85,10 @@ Assista ao sistema funcionando em tempo real:
 ```
 ball-and-beam-pid/
 │
-├── arduino/
-│   └── ball_and_beam.ino       # Código do controlador PID embarcado
-│
-├── scilab/
-│   └── testeatoms.zcos         # Diagrama de blocos Xcos para monitoramento
-│
-├── docs/
-│   └── TCC_BallAndBeam.pdf     # Documento completo do TCC
-│
-├── media/
-│   ├── diagrama_xcos.png       # Diagrama de blocos do sistema
-│   ├── foto_projeto.jpg        # Foto do modelo físico
-│   └── demo.mp4                # Vídeo de demonstração do sistema em operação
-│
+├── Bola_barra_e_scilab.ino     # Código do controlador PID embarcado
+├── testeatoms.zcos             # Diagrama de blocos Xcos para monitoramento
+├── diagrama_xcos.png           # Diagrama de blocos do sistema
+├── TCC2 - Vitor da Cunha Pereira - Final.pdf  # Documento completo do TCC
 └── README.md
 ```
 
