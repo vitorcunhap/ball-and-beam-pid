@@ -72,6 +72,14 @@ Período de amostragem = 50 ms
 
 ---
 
+## 🎥 Demonstração
+
+Assista ao sistema funcionando em tempo real:
+
+▶️ [Clique aqui para assistir a demonstração no YouTube](https://youtu.be/dblAqjQwMnc)
+
+---
+
 ## 📁 Estrutura do Repositório
 
 ```
